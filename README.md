@@ -30,9 +30,8 @@ streamlit run app.py
 
 ## Results
 - Fill after you train:
-  - Validation accuracy: 0.929
-  - Test accuracy: 0.92
-- Confusion matrix is produced by --src/evaluate.py
+  - Validation accuracy: 0.934
+  - Test accuracy: 0.94- Confusion matrix is produced by --src/evaluate.py
 
 
 # Summary
