@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+librosa
+soundfile
+matplotlib
+joblib
+datasets
+tqdm
+streamlit
+audio-recorder-streamlit
