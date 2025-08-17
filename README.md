@@ -66,8 +66,8 @@ This dual path preserves portability across environments (e.g., Windows setups t
 ** Inference (src/infer.py)
  Single-file prediction utility used by the Streamlit app.
 ** Results
-# Validation accuracy: 0.929
-# Test accuracy: 0.920
+# Validation accuracy: 0.931
+# Test accuracy: 0.9407
 
 Confusion matrix (test) indicates strong diagonals; most misclassifications appear among 1/5/6 and a notable block of 6→3. This pattern reflects the loss of temporal dynamics when using mean/std MFCCs. Digits such as 7/8/9/4 achieve the highest recalls (≥ 0.95 in this run).
 
