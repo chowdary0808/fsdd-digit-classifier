@@ -138,12 +138,9 @@ Designing a portable dataset loader with an automatic WAV fallback.
 Stabilizing metrics via stratified splits and a fixed random seed.
 Producing a concise Streamlit interface for upload and recording.
 
-
-# Troubleshooting
-Hugging Face audio decode message
-On some environments (e.g., Windows without torchcodec), a message appears indicating a fallback to WAV files. This behavior is expected and does not affect results.
-requirements.txt not detected
-Ensure the working directory is the repository root (the same folder as requirements.txt and app.py).
+# Live demo
+**Streamlit app:** https://chowdary0808-fsdd-digit-classifier-app-2oesrv.streamlit.app/
+ Local URL: http://localhost:8501
 
 # Acknowledgements
 Dataset — Free Spoken Digit Dataset (FSDD)
