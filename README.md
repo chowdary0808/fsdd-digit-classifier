@@ -140,6 +140,7 @@ Producing a concise Streamlit interface for upload and recording.
 # Live demo
 **Streamlit app:** [https://chowdary0808-fsdd-digit-classifier-app-2oesrv.streamlit.app/](https://chowdary0808-fsdd-digit-classifier-app-lnqc1c.streamlit.app/)
  Local URL: [http://localhost:8501](http://localhost:8501/)
+ Video Link: https://drive.google.com/file/d/1dE6-tKDVxO2UxJ5OMRCwN2p0EVfoph68/view?usp=drive_link
 
 # Acknowledgements
 Dataset — Free Spoken Digit Dataset (FSDD)
